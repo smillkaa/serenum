@@ -11,7 +11,9 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://res.cloudinary.com/dyve8u6cx/image/upload/v1702348040/TATTOO_CEREMONY_dgs6c6.jpg",
         "https://res.cloudinary.com/dyve8u6cx/image/upload/v1702348129/ABOUT_lcmry6.jpg",
         "https://res.cloudinary.com/dyve8u6cx/image/upload/v1702352051/IMG_5838_p8lqze.png",
-        "https://res.cloudinary.com/dyve8u6cx/image/upload/v1711255462/WEB-DESIGN-LOOKBOOK-UNCOMPRESSED-146MB-_1_-1_g7opza.jpg"
+        "https://res.cloudinary.com/dyve8u6cx/image/upload/v1711255462/WEB-DESIGN-LOOKBOOK-UNCOMPRESSED-146MB-_1_-1_g7opza.jpg",
+        "../WEB-DESIGN-LOOKBOOK-UNCOMPRESSED-146MB-_1_-1_g7opza.jpg",
+        "../IMG_9821_pm3v7s (1).mov"
        
     ];
 
