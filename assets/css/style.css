@@ -78,7 +78,7 @@ p, a, li {
 
 .elm-surfaces-bg {
     background-image: url('https://res.cloudinary.com/dwadiagkb/image/upload/v1732056321/Elm_Surfaces_dujbk8.png');
-    background-size: cover;
+    background-size: 100%;
     background-repeat: no-repeat;
 }
 
@@ -167,7 +167,7 @@ p, a, li {
 
     .elm-surfaces-bg {
         background-image: url('https://res.cloudinary.com/dwadiagkb/image/upload/v1732056321/Elm_Surfaces_dujbk8.png');
-        background-size: cover;
+        background-size: 40%;
         background-repeat: no-repeat;
         background-position: center;
     }
@@ -209,7 +209,7 @@ p, a, li {
 
     .elm-surfaces-bg {
         background-image: url('https://res.cloudinary.com/dwadiagkb/image/upload/v1732056321/Elm_Surfaces_dujbk8.png');
-        background-size: cover;
+        background-size: 70%;
         background-repeat: no-repeat;
         background-position: center;
     }
