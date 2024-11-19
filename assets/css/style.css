@@ -76,6 +76,12 @@ p, a, li {
     background-repeat: repeat;
 }
 
+.elm-surfaces-bg {
+    background-image: url('https://res.cloudinary.com/dwadiagkb/image/upload/v1732056321/Elm_Surfaces_dujbk8.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 /* Style the section and make it relative for positioning */
 .video-section {
     position: relative;
@@ -158,6 +164,13 @@ p, a, li {
         background-repeat: repeat-y;
         background-position: top center;
     }
+
+    .elm-surfaces-bg {
+        background-image: url('https://res.cloudinary.com/dwadiagkb/image/upload/v1732056321/Elm_Surfaces_dujbk8.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
     
     .video-section {
         width: 100%;
@@ -192,6 +205,13 @@ p, a, li {
         background-size: 70%;
         background-repeat: repeat-y;
         background-position: top center;
+    }
+
+    .elm-surfaces-bg {
+        background-image: url('https://res.cloudinary.com/dwadiagkb/image/upload/v1732056321/Elm_Surfaces_dujbk8.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
     }
     .container {
         padding: 0 21.65%;
